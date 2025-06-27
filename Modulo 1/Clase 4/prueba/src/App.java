@@ -5,10 +5,10 @@ public class App {
     
     var Scanner = new Scanner(System.in);
     
-    var subTotal = (cantidad * valor);
+    //var subTotal = (cantidad * valor);
 
-    var numero = 18 ;
-    var nombre = "C";
+    //var numero = 18 ;
+    //var nombre = "C";
 
     Scanner.close() ;
     }
